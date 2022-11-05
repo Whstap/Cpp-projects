@@ -1,6 +1,6 @@
 
 - 💻 Learning Python
-- 📫 Discord: /r/Lu3ky#2336
+- 📫 Discord: -Who?#7772
 
 - <->Repository<->
    |            |
