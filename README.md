@@ -1,6 +1,6 @@
 
-- 💻 Learning Python
-- 📫 Discord: -Who?#7772
+- oh hell yes
+- 
 
 - <->Repository<->
    |            |
