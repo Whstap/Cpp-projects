@@ -1,0 +1,5 @@
+car|voiture
+hello|bonjour
+hello world|bonjour monde 
+work|travail
+world|monde
